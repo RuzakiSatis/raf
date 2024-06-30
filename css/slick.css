@@ -65,7 +65,7 @@
 }
 @media(max-width:450px){
     .main_slide_one_items img{
-        width: 265px;
+        width: 250px;
         height: 365px;
     }
     .main_slide_one_items video{
